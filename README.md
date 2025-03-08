@@ -1,3 +1,57 @@
+
+
+Terminal – command instalasi breeze 
+![image](https://github.com/user-attachments/assets/141ee8b1-f176-4b88-ae09-ccbd82a8eee3)
+
+
+VSCode – web.php 
+![image](https://github.com/user-attachments/assets/b4e65203-b937-4565-ba57-576b1d8e8a13)
+
+
+Register User
+![image](https://github.com/user-attachments/assets/8cd6859e-b727-4ae5-8f1b-f094d21e058c)
+
+Dashboard user
+![image](https://github.com/user-attachments/assets/8685abcd-8074-431f-8d01-ef0f393f2e93)
+
+
+Database HeidiSQL
+![image](https://github.com/user-attachments/assets/99c54d4f-7a2c-4ed1-8151-3f0ac8d0eff0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
