@@ -33,6 +33,17 @@ Database HeidiSQL
 
 ![image](https://github.com/user-attachments/assets/6dc6b4f2-611c-4ce6-9826-e4e4768dfa19)
 
+DBMS – tabel user dan terdapat 101 
+![image](https://github.com/user-attachments/assets/eead72c5-5242-4f4f-99f9-ae7f3b7661f6)
+
+DBMS – tabel todo dan data minimal 500 
+![image](https://github.com/user-attachments/assets/90cfa46f-f1e5-4426-92d0-c5f088dd7d47)
+
+todos collection
+![image](https://github.com/user-attachments/assets/71d7e56c-db48-4df3-b8d9-65b88cc949dd)
+
+
+
 
 
 
