@@ -23,7 +23,7 @@ class User extends Authenticatable
         'password',
     ];
 
-    public function todo(){
+    public function todos(){
         return $this-> hasMany(Todo::class);
     }
 
