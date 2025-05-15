@@ -12,12 +12,22 @@ class Todo extends Model
     protected $fillable = [
         'title', 
         'user_id',
+        'category_id',      //agar bisa terhubung
         'is_complete'
-        ];
+    ];
 
-        public function user()
-        {
-            return $this->belongsTo(User::class);
-        }
+    public function user()
+    {
+        return $this->belongsTo(User::class);
+    }    
+
+    //relasi
+    public function category()
+    {
+        return $this->belongsTo(Category::class);
+    }
+
+
+
 
 }
