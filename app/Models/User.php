@@ -23,6 +23,8 @@ class User extends Authenticatable
         'password',
     ];
 
+    // protected $with = ['todos'];
+
     public function todos(){
         return $this-> hasMany(Todo::class);
     }
